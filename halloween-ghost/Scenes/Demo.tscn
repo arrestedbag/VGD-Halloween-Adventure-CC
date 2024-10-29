@@ -412,7 +412,6 @@ texture = ExtResource("7_d384k")
 
 [node name="Sprite2D" type="Sprite2D" parent="Background/Mountains/Mountain3"]
 texture_filter = 1
-scale = Vector2(4, 4)
 texture = ExtResource("6_fscwu")
 
 [node name="----- Enviroment -----" type="Node2D" parent="."]
